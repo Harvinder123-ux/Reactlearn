@@ -5,7 +5,7 @@ import React from "react";
 const NoteData = (props) => {
   const employee = {
     id: "Harleen",
-    tech: "Mern",
+    tech: "Mern Stack",
     salary: 2000000,
     isMale: true,
   };

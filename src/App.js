@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <NoteData>
-        <Hero />
+        <Hero/>
         <Card />
       </NoteData>
     </>

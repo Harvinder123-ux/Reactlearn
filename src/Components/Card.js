@@ -8,7 +8,7 @@ const Card = () => {
     <>
       <div className="CardCont">
         <h1>Employe Name: {emp.id}</h1>
-        <h1>Technology Name:{emp.tech} </h1>
+        <h1>Technology:{emp.tech} </h1>
         <h1>Salary: {emp.salary}</h1>
         <h1>isMale: {emp.isMale}</h1>
       </div>
